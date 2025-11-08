@@ -1,0 +1,1 @@
+To convert .ui to .py, use: python -m PyQt6.uic.pyuic .\app_main_window.ui -o ui_app.py
